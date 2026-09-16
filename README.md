@@ -263,4 +263,4 @@ Aspiring Data Analyst | Excel | Power BI | Data Analytics
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and connect with me.
+⭐ If you find this project useful, feel free to explore the repository and connect with me via email: Samson5olamide@gmail.com
