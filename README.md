@@ -219,29 +219,6 @@ The business should evaluate marketing activities based on measurable outcomes a
 
 Other variables, including units sold, customer satisfaction, product category, region, salesperson, and sales channel, should also be investigated to better understand the factors influencing business performance.
 
----
-
-# 📁 Project Structure
-
-```text
-Sales-Business-Performance-Analysis/
-│
-├── README.md
-│
-├── Dataset/
-│   └── sales_dataset.xlsx
-│
-├── Analysis/
-│   └── sales_analysis.xlsx
-│
-├── Dashboard/
-│   └── sales_dashboard.xlsx
-│
-└── Documentation/
-    └── project_report.pdf
-```
-
-*The folder structure can be adjusted to match the files included in the repository.*
 
 ---
 
